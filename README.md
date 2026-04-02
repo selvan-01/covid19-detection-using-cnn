@@ -51,12 +51,8 @@ It includes a PyQt5-based GUI for real-time image classification.
 
 ---
 
-## ▶️ Run the Project
-```bash
-pip install tensorflow pyqt5 numpy pillow
-python main.py
+## 🔗 Links
 
-🔗 Links
-💼 LinkedIn: https://www.linkedin.com/in/senthamil45
-🌍 Portfolio: https://senthamill.vercel.app/
-💻 GitHub: https://github.com/selvan-01/covid19-detection-using-cnn
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/covid19-detection-using-cnn)
